@@ -1,4 +1,4 @@
-# Exercice 1
+Exercice 1
 Le but de cet exercice est très simple !
 
 A vous d'écrire le code de la page HTML pour atteindre un résultat le plus proche possible du rendu présent dans le fichier result.png
